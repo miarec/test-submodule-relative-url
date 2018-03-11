@@ -1,0 +1,6 @@
+[submodule "roles/redis"]
+	path = roles/redis
+	url = ../ansible-redis.git
+[submodule "roles/python"]
+	path = roles/python
+	url = ../../miarec/ansible-python.git
